@@ -38,9 +38,3 @@ This project is ideal for beginners learning Java fundamentals such as object-or
 - Control flow statements (loops & conditionals)
 
 ---
-
-## 📂 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/student-grade-tracker.git
